@@ -1,1 +1,1 @@
-I have
+Hello, Blog World ~
